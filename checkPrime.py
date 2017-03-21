@@ -1,4 +1,4 @@
-# Check for Prime Number in Tensorflow!
+# Check/Test for Prime Number in Tensorflow!
 # I got approximately 75% accuracy. Feel free to let me know if you find anything wrong 
 # or ways the performance can be improved
 
